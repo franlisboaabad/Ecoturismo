@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/logito.png">
+    <link rel="icon" href="assets/img/logito_icon.ico">
     <title>
         <?php echo $titulo; ?>
     </title>
